@@ -12,8 +12,9 @@ A physical rotation of approximately 90° around the vertical axis produces an a
 
 The recording also demonstrates magnetometer calibration and real-time attitude estimation.
 
-**Demo video:**  
-_Add video link here_
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/F9saW5aFpk8/maxresdefault.jpg)](https://youtu.be/F9saW5a
 
 ---
 
