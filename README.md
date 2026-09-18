@@ -14,7 +14,7 @@ The recording also demonstrates magnetometer calibration and real-time attitude 
 
 ## Demo
 
-[![Watch the demo](https://img.youtube.com/vi/F9saW5aFpk8/maxresdefault.jpg)](https://youtu.be/F9saW5a
+![Watch the demo](https://img.youtube.com/vi/F9saW5aFpk8/maxresdefault.jpg)(https://youtu.be/F9saW5a
 
 ---
 
