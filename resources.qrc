@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="plane.png">images/plane.png</file>
+        <file alias="aircraft_heading_transparent.png">images/aircraft_heading_transparent.png</file>
+        <file alias="heading_scale_transparent.png">images/heading_scale_transparent.png</file>
+    </qresource>
+</RCC>
